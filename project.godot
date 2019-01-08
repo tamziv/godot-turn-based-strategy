@@ -10,10 +10,10 @@ config_version=3
 
 [application]
 
-config/name="mygame"
-run/main_scene="res://menu.tscn"
+config/name="AnimalsBattle"
+run/main_scene="res://Scene/menu.tscn"
 boot_splash/fullsize=false
-config/icon="res://icon.png"
+config/icon="res://Graphics/griffin_PNG57.png"
 
 [display]
 
